@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating sites since 2020<br>📚 I'm currently learning Advance JavaScript and DSA<br>🎯 Goals: Becoming a Full Stack Developer<br>🎲 Fun fact: I like WordPress because it is very easy to creates UI and Landing pages using Page builders</p>
+<p align="left">✨ Creating sites since 2020<br>📚 I'm currently learning advanced JavaScript and React<br>🎯 Goals: Becoming a Full Stack Developer<br>🎲 Fun fact: I like WordPress because it is very easy to create UIs and Landing pages using Page builders</p>
 
 ###
 
